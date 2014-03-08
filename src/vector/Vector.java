@@ -12,14 +12,14 @@ public class Vector {
              vec1[i]= num;
              }else{
                  System.out.println("porfavor ingresar numeros mayores  8");
-                 System.out.println("");
-                 System.out.println("");
+                 System.out.println("");//no es necesario
+                 System.out.println("");//no es necesario
                  
                  
                   }
         }
          for (int i=0; i<5; i++){
-             System.out.print(vec1[i]); 
+             System.out.print(vec1[i]); //System.out.println(vec1[i]);
          }
          System.out.println();
    }
