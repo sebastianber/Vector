@@ -14,7 +14,7 @@ public class Vector {
                   }
         }
          for (int i=0; i<5; i++){
-             System.out.println(vec1[i]);
+             System.out.println(vec1[i]); 
          }
          System.out.println();
    }
