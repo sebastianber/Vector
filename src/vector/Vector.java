@@ -1,3 +1,4 @@
+
 package Vector;
 
 import javax.swing.*;
@@ -11,6 +12,10 @@ public class Vector {
              vec1[i]= num;
              }else{
                  System.out.println("porfavor ingresar numeros mayores  8");
+                 System.out.println("");
+                 System.out.println("");
+                 
+                 
                   }
         }
          for (int i=0; i<5; i++){
